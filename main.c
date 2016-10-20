@@ -73,7 +73,7 @@ int main()
 			}
 	}
 	if(StackEmpty(S))
-		printf("¿®∫≈∆•≈‰\n");
+		printf("¿®∫≈∆•≈‰£¨’Êµƒ∆•≈‰¡À\n");
 	else printf("¿®∫≈≤ª∆•≈‰\n");
 	return 0;
 }
