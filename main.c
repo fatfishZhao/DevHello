@@ -73,7 +73,7 @@ int main()
 			}
 	}
 	if(StackEmpty(S))
-		printf("括号匹配，真的匹配了\n");
+		printf("括号匹配，真的匹配了,don't believe?'\n");
 	else printf("括号不匹配,NO\n");
 	return 0;
 }
