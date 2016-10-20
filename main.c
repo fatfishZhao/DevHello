@@ -74,6 +74,6 @@ int main()
 	}
 	if(StackEmpty(S))
 		printf("¿®∫≈∆•≈‰£¨’Êµƒ∆•≈‰¡À\n");
-	else printf("¿®∫≈≤ª∆•≈‰\n");
+	else printf("¿®∫≈≤ª∆•≈‰,NO\n");
 	return 0;
 }
